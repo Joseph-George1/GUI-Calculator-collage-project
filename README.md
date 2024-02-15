@@ -44,18 +44,18 @@ java Calculator
 
 ## Screenshots
 
-1.0
+
 ![image](https://github.com/josephgeorge26/GUI-Calculator-collage-project/assets/62404986/82b6fa3c-cf7b-423a-8a58-022e0aba6806)
+1.0
 
-1.1
 ![image](https://github.com/josephgeorge26/GUI-Calculator-collage-project/assets/62404986/9df97ff8-5508-496c-81d2-2273c51d27b4)
+1.1
 
-1.2
 ![image](https://github.com/josephgeorge26/GUI-Calculator-collage-project/assets/62404986/feaf1072-f1b9-4345-8cfb-eb3804720c01)
+1.2
 
-2.0
 ![image](https://github.com/josephgeorge26/GUI-Calculator-collage-project/assets/62404986/070431c7-b4dc-449c-b30b-2b9ee5db70f4)
-
+2.0
 
 
 
