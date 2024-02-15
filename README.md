@@ -1,6 +1,4 @@
-Of course! Here's a sample README.md file for a GUI calculator project in Java:
 
-```
 # Java GUI Calculator
 
 This is a simple graphical user interface (GUI) calculator built using Java Swing. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -40,7 +38,7 @@ javac *.java
 
 ```
 java Calculator
-```
+
 
 5. Use the buttons to perform arithmetic operations.
 
@@ -72,6 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Thanks to Java Swing for providing a simple way to create GUI applications in Java.
-```
+
 
 Feel free to customize this README with specific details about your Java GUI calculator project. You can include screenshots, installation instructions, usage examples, etc., as needed.
