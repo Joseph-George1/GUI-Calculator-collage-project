@@ -36,7 +36,7 @@ javac *.java
 
 4. Run the calculator:
 
-```
+
 java Calculator
 
 
