@@ -31,7 +31,8 @@ cd gui-calculator-java
 3. Compile the Java files:
 
 ```
-javac *.java
+Double-click the calculator.jar file or run it from the command line:
+
 ```
 
 4. Run the calculator:
@@ -63,13 +64,4 @@ java Calculator
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Thanks to Java Swing for providing a simple way to create GUI applications in Java.
-
-
-Feel free to customize this README with specific details about your Java GUI calculator project. You can include screenshots, installation instructions, usage examples, etc., as needed.
