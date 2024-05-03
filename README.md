@@ -24,9 +24,6 @@ git clone https://github.com/your-username/gui-calculator-java.git
 
 2. Navigate to the project directory:
 
-```
-cd gui-calculator-java
-```
 
 3. Compile the Java files:
 
